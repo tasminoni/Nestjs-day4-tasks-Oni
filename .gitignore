@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+API_DOCUMENTATION.md
+IMPLEMENTATION_SUMMARY.md
+test
+tsconfig.json
+tsconfig.build.json
+nest-cli.json
+eslint.config.mjs
